@@ -1,0 +1,11 @@
+h1{
+	color: blue;
+	font-size: 50px;
+	text-decoration: underline;
+	text-transform: lowercase;
+	text-shadow: 5px 5px 10px black;
+}
+div{
+	position: absolute;
+	left: 300px;
+}
